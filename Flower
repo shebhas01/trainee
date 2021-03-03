@@ -1,0 +1,14 @@
+class Flower() {
+String name;
+String color;
+{
+void blooming();
+}
+public static void main( String[] args){
+System.out.println( name+ " "+ "is blooming...!);
+Flower name=new flower();
+rose.name="Rose";
+rose.color="Red";
+rose.blooming();
+}
+}
